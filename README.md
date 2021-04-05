@@ -29,3 +29,11 @@ Also, a Swagger with the endpoints specifications for the operations is provided
 ## Complete the challenge
 
 To complete the challenge, you must send us the link to your forked repository with the code of your application. Please, provide instructions to execute the code.
+
+## Execute
+In the project directory, you can run:
+
+`yarn start`
+
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
